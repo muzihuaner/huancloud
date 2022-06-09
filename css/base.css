@@ -90,7 +90,7 @@ a:hover {
 /*菜单*/
 .menu_nav {
     height: 90px;
-    width: 1200px;
+    width: 100%;
     margin: 0 auto;
     overflow: hidden;
     background: #058;
@@ -310,7 +310,10 @@ a:hover {
     font-size: 12px;
     padding-top: 10px;
 }
-
+.footer2 .wx{
+    position: relative;
+    top: 5px;
+}
 .footer2 a {
     color: #eee;
 }
@@ -318,13 +321,35 @@ a:hover {
 .footer2 a:hover {
     color: #08f;
 }
-.footer2 ul{
+
+.footer2 ul {
     margin-bottom: 30px;
     display: inline-block;
     text-align: center;
 
 }
-.footer2 ul li{
+
+.footer2 ul li {
     float: left;
     width: 100px;
+}
+
+.video-wrap>h2{
+    color: #fff;
+    position: relative;
+    top: 150px;
+    font-size: 30px;
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+.video-wrap .title{
+    color: #fff;
+    position: relative;
+    top: 180px;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
 }
