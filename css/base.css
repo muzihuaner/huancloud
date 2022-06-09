@@ -101,10 +101,11 @@ a:hover {
     width: 200px;
     overflow: hidden;
     float: left;
+    margin-left: 20px;
 }
 
 .logo10isp a {
-    padding-top: 18px;
+    padding-top: 10px;
     display: block;
 }
 
@@ -124,7 +125,7 @@ a:hover {
     line-height: 90px;
     text-align: center;
     float: left;
-    margin-right: 48px;
+    margin-right: 40px;
 }
 
 .menu_isp ul li a {
