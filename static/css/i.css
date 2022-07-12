@@ -77,7 +77,7 @@ img {
     width: 100px;
 }
 .l ul li a{
-    color: #000000;
+    color: #000000!important;
     font-weight: bolder;
 }
 
@@ -85,7 +85,7 @@ img {
     float: right
 }
 .r .wx{
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     text-align: center;
 }
 .r .wx p{margin-top: 10px}
